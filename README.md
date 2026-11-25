@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/raktimranjit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-raktimranjit-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/raktim.ranjit"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-raktim.ranjit-e1306c?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://x.com/raktimranjit01"><img alt="X / Twitter" src="https://img.shields.io/badge/X-@raktimranjit01-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="mailto:raktimranjit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raktimranjit@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mail@raktimranjit.com"><img alt="Email" src="https://img.shields.io/badge/Email-mail@raktimranjit.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Raktim94&label=Profile+views&color=2563eb&style=flat-square" />
@@ -72,7 +72,7 @@ so small businesses can run it on their own hardware, on their own network, with
 ## 🤝 Work with me
 
 Need a self-hosted POS, billing system, CRM, website or a deployment pipeline?
-**[Get in touch →](https://www.raktimranjit.com/)** or email **[raktimranjit@gmail.com](mailto:raktimranjit@gmail.com)**.
+**[Get in touch →](https://www.raktimranjit.com/)** or email **[mail@raktimranjit.com](mailto:mail@raktimranjit.com)**.
 
 <div align="center">
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=110&section=footer" />
