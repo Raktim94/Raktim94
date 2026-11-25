@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Raktim Ranjit - Full-Stack Developer and DevOps Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Raktim%20Ranjit&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20Nodedr%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20DevOps&descSize=20&descAlignY=60&animation=fadeIn" />
+<img width="100%" alt="Raktim Ranjit - Full-Stack Developer and DevOps Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Raktim%20Ranjit&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20Nodedr%20%C2%B7%20Software%20Engineer%20%C2%B7%20System%20Architect&descSize=20&descAlignY=60&animation=fadeIn" />
 
 <a href="https://github.com/Raktim94">
   <img alt="Typing animation: self-hosted software, POS, billing, CRM, DevOps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+self-hosted+software+people+actually+own;Restaurant+POS+%C2%B7+Retail+POS+%C2%B7+Billing+%C2%B7+CRM;TypeScript+%C2%B7+Go+%C2%B7+Docker+%C2%B7+CI%2FCD;Shipping+scalable+web+solutions+%26+automated+pipelines" />
@@ -10,7 +10,8 @@
   <a href="https://www.raktimranjit.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-raktimranjit.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/raktimranjit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-raktimranjit-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/raktim.ranjit"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-raktim.ranjit-e1306c?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://x.com/raktimranjit01"><img alt="X / Twitter" src="https://img.shields.io/badge/X-@raktimranjit01-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/RaktimRanj80064"><img alt="X" src="https://img.shields.io/badge/X-@RaktimRanj80064-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/@raktimranjit01"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@raktimranjit01-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="mailto:mail@raktimranjit.com"><img alt="Email" src="https://img.shields.io/badge/Email-mail@raktimranjit.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -23,15 +24,15 @@
 
 ## 👋 About me
 
-I'm **Raktim Ranjit**, a **full-stack developer and DevOps engineer** and the founder of **[Nodedr](https://www.raktimranjit.com/)**.
-I build **self-hosted, privacy-first business software**: restaurant and retail POS, billing and accounting, pharmacy management,
-CRM and form backends. Every product ships with Docker Compose, a one-line installer, and CasaOS / Microsoft Store packaging,
-so small businesses can run it on their own hardware, on their own network, with their own data.
+I'm **Raktim Ranjit**, a software engineer, web developer, system architect and founder of **[NODEDR INFOTECH PRIVATE LIMITED](https://www.nodedr.com/)**.
+I build websites, e-commerce applications and **self-hosted business software** across data, security and infrastructure: restaurant and retail POS, billing and accounting, pharmacy management, workforce CRM and form backends.
+I write about the decisions behind that work at **[raktimranjit.com](https://www.raktimranjit.com/blog)**, I'm the author of the *Proof of Absence* novels, and I practise photography.
 
 - 🏗️ Scalable web apps in **TypeScript, React, Next.js, Node.js and Go**
 - ⚙️ Automated **CI/CD pipelines**, containers and self-hosted infrastructure
 - 🔒 Local-first, offline-capable, no vendor lock-in
 - 🌍 Multi-currency, multi-language, country tax packs
+- 📦 Every product ships with Docker Compose, a one-line installer, and CasaOS / Microsoft Store packaging, so a business runs it on its own hardware and keeps its own data
 
 ## 🚀 Featured projects
 
