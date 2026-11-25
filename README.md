@@ -35,14 +35,14 @@ so small businesses can run it on their own hardware, on their own network, with
 
 ## 🚀 Featured projects
 
-| Project | What it is | Stack | Stats |
+| Project | What it is | Stack | Stars / Site |
 |---|---|---|---|
-| **[nodedr-restaurant-pos](https://github.com/Raktim94/nodedr-restaurant-pos)** | Self-hosted restaurant POS: tables, kitchen display, reservations, QR ordering, loyalty, local-network operation | TypeScript | ![stars](https://img.shields.io/github/stars/Raktim94/nodedr-restaurant-pos?style=social) |
-| **[nodedr-pos](https://github.com/Raktim94/nodedr-pos)** | Self-hosted retail POS: barcode checkout, inventory, returns, customer credit, configurable currencies. Microsoft Store, Docker Compose, CasaOS | TypeScript | ![stars](https://img.shields.io/github/stars/Raktim94/nodedr-pos?style=social) |
-| **[rechvix](https://github.com/Raktim94/rechvix)** | Self-hosted billing, inventory, double-entry accounting and CRM with multiple companies, languages and invoice currencies | Go | ![stars](https://img.shields.io/github/stars/Raktim94/rechvix?style=social) |
-| **[KinetiRx](https://github.com/Raktim94/KinetiRx)** | Pharmacy and small-clinic management: billing, batch and expiry stock, patient records, OPD scheduling, optional AI bill OCR | TypeScript | ![stars](https://img.shields.io/github/stars/Raktim94/KinetiRx?style=social) |
-| **[zulivio](https://github.com/Raktim94/zulivio)** | Sales CRM and workforce operations: leads, call logs, follow-ups, scoring, attendance, assignments | TypeScript | ![stars](https://img.shields.io/github/stars/Raktim94/zulivio?style=social) |
-| **[Submify](https://github.com/Raktim94/Submify)** | Self-hosted form backend: submission inbox, exports, client portals, booking, Telegram alerts, S3 uploads | Go | ![stars](https://img.shields.io/github/stars/Raktim94/Submify?style=social) |
+| **[nodedr-restaurant-pos](https://github.com/Raktim94/nodedr-restaurant-pos)** | Self-hosted restaurant POS: tables, kitchen display, reservations, QR ordering, loyalty, local-network operation | TypeScript | ![stars](https://img.shields.io/github/stars/Raktim94/nodedr-restaurant-pos?style=social) [🌐 Live](https://orderrestro.nodedr.com) |
+| **[nodedr-pos](https://github.com/Raktim94/nodedr-pos)** | Self-hosted retail POS: barcode checkout, inventory, returns, customer credit, configurable currencies. Microsoft Store, Docker Compose, CasaOS | TypeScript | ![stars](https://img.shields.io/github/stars/Raktim94/nodedr-pos?style=social) [🌐 Live](https://pos.nodedr.com) |
+| **[rechvix](https://github.com/Raktim94/rechvix)** | Self-hosted billing, inventory, double-entry accounting and CRM with multiple companies, languages and invoice currencies | Go | ![stars](https://img.shields.io/github/stars/Raktim94/rechvix?style=social) [🌐 Live](https://rechvix.nodedr.com) |
+| **[KinetiRx](https://github.com/Raktim94/KinetiRx)** | Pharmacy and small-clinic management: billing, batch and expiry stock, patient records, OPD scheduling, optional AI bill OCR | TypeScript | ![stars](https://img.shields.io/github/stars/Raktim94/KinetiRx?style=social) [🌐 Live](https://kinetirx.nodedr.com) |
+| **[zulivio](https://github.com/Raktim94/zulivio)** | Sales CRM and workforce operations: leads, call logs, follow-ups, scoring, attendance, assignments | TypeScript | ![stars](https://img.shields.io/github/stars/Raktim94/zulivio?style=social) [🌐 Live](https://zulivio.nodedr.com) |
+| **[Submify](https://github.com/Raktim94/Submify)** | Self-hosted form backend: submission inbox, exports, client portals, booking, Telegram alerts, S3 uploads | Go | ![stars](https://img.shields.io/github/stars/Raktim94/Submify?style=social) [🌐 Live](https://submify.nodedr.com) |
 
 ## 🧰 Tech stack
 
